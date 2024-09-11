@@ -1,7 +1,7 @@
-# Student Management System
+# Student Enrollment System
 
 ## Description
-This project is a Student Management System that allows users to manage student registrations, courses, and other related functionalities.
+This project is a Student Enrollment System that allows users to enroll and manage student registrations, courses, and other related functionalities.
 
 ## Installation
 To install and run this project run the following commands:
