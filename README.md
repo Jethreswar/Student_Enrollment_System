@@ -1,5 +1,7 @@
 # 🎓 Student Registration System
 
+A robust student-friendly guided platform to help in enrollment of different courses, enterprise-grade RESTful web service built with Spring Boot. It serves as the backbone for a comprehensive student management platform, handling everything from student enrollment to course management and academic tracking.
+
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![Oracle](https://img.shields.io/badge/Database-Oracle-red.svg)](https://www.oracle.com/database/)
