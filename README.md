@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-The **Student Registration System API Backend** is a robust, enterprise-grade RESTful web service built with Spring Boot. It serves as the backbone for a comprehensive student management platform, handling everything from student enrollment to course management and academic tracking.
+The **Student Registration System** is a robust, enterprise-grade RESTful web service built with Spring Boot. It serves as the backbone for a comprehensive student management platform, handling everything from student enrollment to course management and academic tracking.
 
 This backend is designed to seamlessly integrate with a React frontend, providing a complete full-stack solution for educational institutions to manage their student registration processes efficiently.
 
